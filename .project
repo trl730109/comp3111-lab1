@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>eclipse.png</name>
+			<type>1</type>
+			<location>C:/Users/86158/Videos/Captures/eclipse.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
